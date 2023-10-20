@@ -46,8 +46,8 @@ Courses that I have studied during third year of my engineering offered by the D
 >>   Activity | Organization & Domain | Repository
 >>   --- | --- | ---
 >>   Internship | Software Testing | [Link](https://github.com/yashraj9011/Software-Testing-Internship.git)
->>   Masterclass | OOP | [Link]()
->>   Masterclass | Git & Github | [link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
+>>   Masterclass | OOP | [Link](https://github.com/yashraj9011/AIDS-Semester-7/tree/master/Masterclass%20on%20SOLID%20Principles%20Every%20Developer%20Must%20%20Know%20by%20Scaler)
+>>   Masterclass | Git & Github | [Link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
 I have studied 4 Courses during 7th Semester of engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
 Also implemented Laboratory Assignments of Computer Laboratory I , Computer Laboratory II , Elective 3 Laboratory and Elective 4 Laboratory . 
