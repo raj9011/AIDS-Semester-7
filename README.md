@@ -47,7 +47,7 @@ Courses that I have studied during third year of my engineering offered by the D
 >>   --- | --- | ---
 >>   Internship | Software Testing | [Link](https://github.com/yashraj9011/Software-Testing-Internship.git)
 >>   Masterclass | OOP | [Link]()
->>   Masterclass | Git & Github | [link](
+>>   Masterclass | Git & Github | [link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
 I have studied 4 Courses during 7th Semester of engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
 Also implemented Laboratory Assignments of Computer Laboratory I , Computer Laboratory II , Elective 3 Laboratory and Elective 4 Laboratory . 
