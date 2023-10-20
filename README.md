@@ -15,7 +15,7 @@
 ![Logo](https://github.com/yashraj9011/AIDS-Semester-7/blob/master/Curriculam%202.jpg)
 
 
-# Third Year- VPKBIET
+# Final Year- VPKBIET
 
 
 Repository contains Handwritten Notes , Assignments material prepared by me , Certificates Earned and also Reference Books that I referred during the Semester.  
