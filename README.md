@@ -40,7 +40,7 @@ Courses that I have studied during third year of my engineering offered by the D
 >> 417526  | Computer Laboratory II | Prof. Rohini Naik & Prof. Pradip Shendage
 >> 417527  | Project Stage 1 | Prof. Pradip Paithane
 >> 417528  | MOOC | Prof. Pradip Shendage
->> AC7     | Audit Course 7 : MOOC Learn New Skills | Prof. Apurva Mane
+>> AC7     | Audit Course 7 : MOOC Learn New Skills | Prof. Pradip Ghorpade
 
 ##   Presentation 
 >>   Activity | Organization & Domain | Repository
