@@ -92,7 +92,7 @@ design methods , 4+1 architecture , Introduction to UML , UML building Blocks , 
 - Object diagram , Package diagram , Component diagram , Composite Structure diagram , Deployment Diagram .
 - Dynamic Modeling , Activity diagram , Different Types of nodes , Control flow , Activity Partition , Interaction diagram: Sequence diagram , Interaction Overview diagram , State machine diagram , Advanced State Machine diagram , Communication diagram , Timing diagram .
   
-These are some keypoints which gives idea of curriculam that I studied in even semester! 
+These are some keypoints which gives idea of curriculam that I studied in Odd semester! 
  
 Cheers!  
 
