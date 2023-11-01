@@ -88,11 +88,10 @@ CO2 : Illustrate the use of sensors, actuators and communication protocols used 
 of IIOT
 
 - Sensors and Actuators used for Industrial Processes, Roles of sensors and actuators in IIOT, IIOT 
-Sensor networks, Process automation and Data Acquisitions on IIoT Platform, Communication and 
-Networking of IIoT-Wireless Sensor nodes with Bluetooth, WiFi, and LoRa Protocols and IoT Hub 
-systems, Zigbee, Z wave, Bacnet, BLE, Modbus, SPI , I2C, The field bus, Industrial automation: 
+Sensor networks, Process automation and Data Acquisitions on IIoT Platform, WiFi, and LoRa Protocols and IoT Hub 
+systems, Zigbee, Z wave, BLE, SPI , I2C, Industrial automation: 
 PLC and SCADA
-ICS Protocol: Ethernet IP, Modbus TCP/IP, ProfiNet, DNP3, EtherCAT, CCLink IE and OPC UA
+ICS Protocol: Ethernet IP, Modbus TCP/IP, ProfiNet, DNP3, EtherCAT
 
 CO3: Elaborate the IIOT components required for IIOT architecture
 - IIoT Architecture -:  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
@@ -134,10 +133,8 @@ CO2 : Use an indexing approach for retrieval of documents
 CO3 : Evaluate and analyze the retrieved information
 
 - Probabilistic Retrieval: Review of Basic Probability Theory; The Probability Ranking Principle: 
-The 1/0 loss case, the PRP with retrieval costs; The Binary Independence Model; Term Frequency; 
-An appraisal and some extensions: An appraisal of probabilistic models, tree-structured dependencies 
-between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR, Relevance 
-Feedback, Field Weights:BM25F.
+The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, tree-structured dependencies 
+between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F.
 - Language models for information retrieval: generating queries from documents; Language models: 
 finite automata and language models; types of language models; multinomial distributions over 
 words; Ranking with Language Models; Divergence from Randomness, Passage Retrieval, and 
