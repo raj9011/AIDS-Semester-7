@@ -78,11 +78,11 @@ Also implemented Laboratory Assignments of Computer Laboratory I , Computer Labo
 
 - Introduction to ANN , History of NN , Comparison of Biological Neural Network and Artificial Neural Network , Neural Network Architecture , Features , Characteristics , Types , Activation functions , MP Model , Adaline and Madaline Model , Applications of neural networks .
 - Learning and Memory , Learning Algorithms , Error Correction and Gradient Decent Rules , Perceptron , Backpropagation , Multilayered Network Architectures , Feed forward and feedback .
-- Associative Learning , Hopfield network , Error Performance in Hopfield networks , Simulated Annealing , Boltzmann machine and Boltzmann learning , Pattern association , pattern classification and pattern mapping tasks .
-- Competitive Learning Neural Network , Components , Pattern clustering and feature mapping , ART networks , Self-Organization Maps (SOM) , Computer Simulations , Learning Vector Quantization , Adaptive Pattern Classification .
-- Convolution Neural Network , Building blocks , Architectures , pooling layers , Padding , SoftMax regression , Deep Learning frameworks , Transfer learning , multi-task learning , Introduction to CNN models: LeNet – 5 , AlexNet , VGG – 16 , Residual Networks .
-- Applications of ANN , Pattern classification – Recognition of Olympic games symbols , Recognition of printed Characters , Neocognitron – Recognition of handwritten characters , NET Talk: to convert English text to speech , Recognition of consonant vowel (CV) segments , texture classification and segmentation .
-
+- IIoT Architecture -:  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
+- Cloud and Data Analytics for IIoT :- IIoT Cloud Platforms , Predix , PTC Thing Worcx , Microsoft Azure cloud services , Business Models : SaaS , PaaS , IaaS .Role of Analytics in IIoT and Data Visualization Techniques .
+- DIGITAL IIoT TWIN :- Introduction ,  Need , Elements , Process Design and Information Requirements .
+- IIoT Security Challenges and Solutions :- Introduction , Importance of Security for Industrial IoT , Conventional relationship with IIoT , Vulnerabilities , Privacy , Security Requirements , Threat Analysis , identity establishment , accesss control , message integrity .
+- Case Study :- Building Hybrid Edge Cloud IIoT Platform 
 
 
 #  417524B -  Elective 4 - Information Retrieval 
