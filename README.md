@@ -48,6 +48,9 @@ Courses that I have studied during third year of my engineering offered by the D
 >>   Internship | Common Internship Studio | Software Testing | [Link](https://github.com/yashraj9011/Software-Testing-Internship.git)
 >>   Masterclass  | Scaler | OOP | [Link](https://github.com/yashraj9011/AIDS-Semester-7/tree/master/Masterclass%20on%20SOLID%20Principles%20Every%20Developer%20Must%20%20Know%20by%20Scaler)
 >>   Masterclass | Geekstar | Git & Github | [Link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
+>>   Masterclass | PantechSolutions | Artificial Intelligence | [Link] ()
+
+
 I have studied 4 Courses during 7th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
 Also implemented Laboratory Assignments of Computer Laboratory I , Computer Laboratory II , Elective 3 Laboratory and Elective 4 Laboratory . 
@@ -94,7 +97,7 @@ PLC and SCADA
 ICS Protocol: Ethernet IP, Modbus TCP/IP, ProfiNet, DNP3, EtherCAT
 
 CO3: Elaborate the IIOT components required for IIOT architecture
-- IIoT Architecture -:  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
+- IIoT Architecture :-  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
   
 CO4: Analyze the role of cloud computing in IIOT including data storage, processing and data analytics and Digital Twin
   
@@ -103,21 +106,17 @@ CO4: Analyze the role of cloud computing in IIOT including data storage, process
 
  CO5 : Recognize the importance of security in IIOT and solutions to mitigate security risks
  
-- IIoT Security Challenges and Solutions :- Introduction , Importance of Security for Industrial IoT , Conventional relationship with IIoT , Vulnerabilities , Privacy , Security Requirements , Threat Analysis , identity establishment , accesss control , message integrity . Non-repudiation and availability
+- IIoT Security Challenges and Solutions :- Introduction , Importance of Security for Industrial IoT , Conventional relationship with IIoT , Vulnerabilities , Security Requirements , Threat Analysis , accesss control , Non-repudiation and availability
 - Security model for IoT, Trust–Trust and Trust Models for the IoT, IoT security tomography and 
-layered attacker model, Network security techniques Management aspects of cyber securit
+layered attacker model, Network security techniques Management aspects of cyber security
 
 CO6 : Categorize the various IIOT applications and use cases of IIoT implemented in various 
 industries
 - Applications: - Smart Robotics, Smart Metering, Smart Irrigation, Smart Manufacturing (Lean 
-manufacturing).
-
-- Use Cases: - Healthcare, Smart Office, Smart Logistics, IOT Innovations in Retail, Cyber 
+manufacturing). Use Cases: - Healthcare, Smart Office, Smart Logistics, IOT Innovations in Retail, Cyber 
 Manufacturing Systems.
-
 - Industry 4.0: - Introduction, Definition, Why Industry 4.0 and Why Now?
 Characteristics, Design Principles, Advantages and applications of Industry 4.0, Introduction to Industry 5.0 (Society 5.0)
-
 - Case Study :- Building Hybrid Edge Cloud IIoT Platform 
 
 
@@ -127,11 +126,9 @@ CO1 : Understand the concept of Information Retrieval
 - Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , IR processes and fields , Vector Model , Probabilistic Model and Latent Semantic Indexing Model.
 
 CO2 : Use an indexing approach for retrieval of documents
-
 - Components of Index, Index Life Cycle, Static Inverted Index, Dictionaries-Types (Sort Based, Hash Based, Interleaving & Posting Lists), Index Construction (In memory, Sort Based, Merge Based, Disk Based Index Construction), Dynamic Indexing, Query Processing for Ranked Retrieval, Document at a Time Query Processing, Term at a Time Query Processing, Precomputing Score Contributions, Impact Ordering, Query Optimization .
 
 CO3 : Evaluate and analyze the retrieved information
-
 - Probabilistic Retrieval: Review of Basic Probability Theory; The Probability Ranking Principle: 
 The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, tree-structured dependencies 
 between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F.
@@ -141,7 +138,6 @@ words; Ranking with Language Models; Divergence from Randomness, Passage Retriev
 Ranking
 
 CO4 : Apply appropriate method of Text Classification and Clustering
-
 - Text Classification: Introduction to Text Classification, Naiyes Bayes Model, K Nearest neighbor, 
 spam filtering, Support Vector Machine Classifier, Vector Space classification using hyperplanes, 
 kernel function.
