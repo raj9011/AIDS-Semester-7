@@ -48,7 +48,7 @@ Courses that I have studied during third year of my engineering offered by the D
 >>   Internship | Common Internship Studio | Software Testing | [Link](https://github.com/yashraj9011/Software-Testing-Internship.git)
 >>   Masterclass  | Scaler | OOP | [Link](https://github.com/yashraj9011/AIDS-Semester-7/tree/master/Masterclass%20on%20SOLID%20Principles%20Every%20Developer%20Must%20%20Know%20by%20Scaler)
 >>   Masterclass | Geekstar | Git & Github | [Link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
->>   Masterclass | PantechSolutions | Artificial Intelligence | [Link] ()
+>>   Masterclass | PantechSolutions | Artificial Intelligence | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence)
 
 
 I have studied 4 Courses during 7th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
