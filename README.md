@@ -127,16 +127,16 @@ CO1 : Understand the concept of Information Retrieval
 - Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , IR processes and fields , Vector Model , Probabilistic Model and Latent Semantic Indexing Model.
 
 CO2 : Use an indexing approach for retrieval of documents
-- Components of Index, Index Life Cycle, Static Inverted Index, Dictionaries-Types (Sort Based, Hash Based, Interleaving & Posting Lists), Index Construction (In memory, Sort Based, Merge Based, Disk Based Index Construction), Dynamic Indexing, Query Processing for Ranked Retrieval, Document at a Time Query Processing, Term at a Time Query Processing, Precomputing Score Contributions, Impact Ordering, Query Optimization .
+- Components of Index, Index Life Cycle, Static Inverted Index, Dictionaries-Types (Sort Based, Hash Based, Interleaving & Posting Lists), Index Construction (In memory, Sort Based, Merge Based, Disk Based Index Construction), Dynamic Indexing, Query Processing for Ranked Retrieval, Document at a Time Query Processing, Term at a Time Query Processing , Query Optimization .
 
 CO3 : Evaluate and analyze the retrieved information
 - Probabilistic Retrieval: Review of Basic Probability Theory; The Probability Ranking Principle: 
 The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, tree-structured dependencies 
-between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F.
-- Language models for information retrieval: generating queries from documents; Language models: 
-finite automata and language models; types of language models; multinomial distributions over 
-words; Ranking with Language Models; Divergence from Randomness, Passage Retrieval, and 
-Ranking
+between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F .
+- Language models for information retrieval: generating queries from documents , Language models: 
+finite automata and language models , types of language models , multinomial distributions over 
+words , Ranking with Language Models , Divergence from Randomness, Passage Retrieval, and 
+Ranking .
 
 CO4 : Apply appropriate method of Text Classification and Clustering
 - Text Classification: Introduction to Text Classification, Naiyes Bayes Model, K Nearest neighbor, 
@@ -164,6 +164,6 @@ Collecting and Integrating Specialized Information on the web .
 
 These are some keypoints which gives idea of curriculam that I studied in Odd semester! 
  
-Cheers!  
+Cheers !  
 
 
