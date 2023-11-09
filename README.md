@@ -54,7 +54,7 @@ Courses that I have studied during third year of my engineering offered by the D
 
 I have studied 4 Courses during 7th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
-Also implemented Laboratory Assignments of Computer Laboratory I , Computer Laboratory II , Elective 3 Laboratory and Elective 4 Laboratory . 
+Also implemented Laboratory Assignments of Computer Laboratory I and Computer Laboratory II .
 
 
 
