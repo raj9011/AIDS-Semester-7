@@ -135,6 +135,7 @@ The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extension
 between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F .
 - Language models for information retrieval: generating queries from documents , Language models: 
 finite automata and language models , types of language models .
+
 CO4 : Apply appropriate method of Text Classification and Clustering
 - Text Classification: Introduction to Text Classification, Naiyes Bayes Model, K Nearest neighbor, 
 spam filtering, Support Vector Machine Classifier, Vector Space classification using hyperplanes, 
