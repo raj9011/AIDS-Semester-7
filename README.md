@@ -80,39 +80,32 @@ Also implemented Laboratory Assignments of Computer Laboratory I and Computer La
 
 #  417523B -  Elective 3 - Industrial Internet of Things
 
-CO1 : Understand the basic knowledge of Industrial IOT, its challenges, benefits and significance 
-in industrial applications
 
 - Introduction to IIOT, History of IIOT, IOT Vs. IIOT, The Various Industrial Revolutions, Role of 
 Internet of Things (IoT) & Industrial Internet of Things (IIoT) in Industry, Smart Factories, Role of 
 IIOT in Manufacturing Processes, Use of IIOT in plant maintenance practices, Sustainability 
 through Business excellence tools Challenges, Benefits in implementing IIOT, Applications of IIOT
 
-CO2 : Illustrate the use of sensors, actuators and communication protocols used in implementation 
-of IIOT
 
 - Sensors and Actuators used for Industrial Processes, Roles of sensors and actuators in IIOT, IIOT 
 Sensor networks, Process automation and Data Acquisitions on IIoT Platform, WiFi, and LoRa Protocols and IoT Hub 
 systems, Zigbee, Z wave, BLE, SPI , I2C, Industrial automation: 
 PLC and SCADA
-ICS Protocol: Ethernet IP, Modbus TCP/IP, ProfiNet, DNP3, EtherCAT
+ICS Protocol: Ethernet IP, Modbus TCP/IP, EtherCAT
 
-CO3: Elaborate the IIOT components required for IIOT architecture
+
 - IIoT Architecture :-  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
   
-CO4: Analyze the role of cloud computing in IIOT including data storage, processing and data analytics and Digital Twin
   
 - Cloud and Data Analytics for IIoT :- IIoT Cloud Platforms , Predix , PTC Thing Worcx , Microsoft Azure cloud services , Business Models : SaaS , PaaS , IaaS .Role of Analytics in IIoT and Data Visualization Techniques .
 - DIGITAL IIoT TWIN :- Introduction ,  Need , Elements , Process Design and Information Requirements .
 
- CO5 : Recognize the importance of security in IIOT and solutions to mitigate security risks
- 
+
 - IIoT Security Challenges and Solutions :- Introduction , Importance of Security for Industrial IoT , Conventional relationship with IIoT , Vulnerabilities , Security Requirements , Threat Analysis , accesss control , Non-repudiation and availability
 - Security model for IoT, Trust–Trust and Trust Models for the IoT, IoT security tomography and 
 layered attacker model, Network security techniques Management aspects of cyber security
 
-CO6 : Categorize the various IIOT applications and use cases of IIoT implemented in various 
-industries
+
 - Applications: - Smart Robotics, Smart Metering, Smart Irrigation, Smart Manufacturing (Lean 
 manufacturing). Use Cases: - Healthcare, Smart Office, Smart Logistics, IOT Innovations in Retail, Cyber 
 Manufacturing Systems.
@@ -123,27 +116,24 @@ Characteristics, Design Principles, Advantages and applications of Industry 4.0,
 
 #  417524B -  Elective 4 - Information Retrieval 
 
-CO1 : Understand the concept of Information Retrieval 
-- Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , IR processes and fields , Vector Model , Probabilistic Model and Latent Semantic Indexing Model.
 
-CO2 : Use an indexing approach for retrieval of documents
+- Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , Vector Model , Probabilistic Model 
+
+
 - Components of Index, Index Life Cycle, Static Inverted Index, Dictionaries-Types (Sort Based, Hash Based, Interleaving & Posting Lists), Index Construction (In memory, Sort Based, Merge Based, Disk Based Index Construction), Dynamic Indexing, Query Processing for Ranked Retrieval, Document at a Time Query Processing, Term at a Time Query Processing , Query Optimization .
 
-CO3 : Evaluate and analyze the retrieved information
 - Probabilistic Retrieval: Review of Basic Probability Theory; The Probability Ranking Principle: 
-The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, tree-structured dependencies 
-between terms, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F .
+The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F .
 - Language models for information retrieval: generating queries from documents , Language models: 
 finite automata and language models , types of language models .
 
-CO4 : Apply appropriate method of Text Classification and Clustering
-- Text Classification: Introduction to Text Classification, Naiyes Bayes Model, K Nearest neighbor, 
+
+- Text Classification: Introduction to Text Classification, Naiyes Bayes Model, K Nearest neighbor,
 spam filtering, Support Vector Machine Classifier, Vector Space classification using hyperplanes, 
 kernel function.
 - Text Clustering: Clustering vs Classification, partitioning methods. Clustering Algorithms: k-means 
 clustering, Agglomerative hierarchical clustering, Expectation Maximization, Mixture of Gaussians Model
 
-CO5 : Design and implement innovative features in search engines
 - Parallel information retrieval: Parallel query processing, Mapreduce 
 - Web Retrieval: Search Engine Architectures, Cluster based Architecture, Distributed Architectures,
 Search Engine Ranking. Link based Ranking, Page Ranking Algorithm, Simple Ranking Functions 
@@ -151,7 +141,6 @@ and Evaluations.
 - Web Crawler: Web Crawler structure, Web crawler libraries, Python Scrapy, Beautiful Soup, 
 Applications
 
-CO6 : Analyze different real-life application of Information Retrieval
 
 - Multimedia Information Retrieval: Spoken Language Audio Retrieval, Non-Speech Audio 
 Retrieval, Graph Retrieval, Imagery Retrieval, Video Retrieval
