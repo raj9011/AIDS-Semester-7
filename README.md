@@ -61,12 +61,60 @@ Also implemented Laboratory Assignments of Computer Laboratory I and Computer La
 
 
 #  417521 - Machine Learning
--  Introduction , Need , Relationships , Applications of Data Science , Data Wrangling Methods . 
--  Statistical Inference , statistics in Data Science , Basics and need of hypothesis and hypothesis testing .   
--  Data Analytics Life Cycle , Phase 1: Discovery, Phase 2: Data Preparation , Phase 3: Model Planning , Phase 4: Model Building , Phase 5: Communication results , Phase 6: Operationalize. GINA (Global Innovation Social Network and Analysis) case study .
--  Predictive Data Analytics with Python , Python Libraries , Association Rules: Apriori Algorithm, FP growth . Regression , Classification , Introduction to  Scikit-learn , Regression and Classification using Scikit-learn .
-- Data Analytics and Model Evaluation , Clustering Algorithms , Text-preprocessing , TF-IDF , Model Evaluation and Selection , Confusion matrix , AUC-ROC Curves , Elbow plot . 
--  Data Visualization and Hadoop , Introduction , Types , Tools , Challenges , Analytical techniques , Hadoop ecosystem , Map Reduce , Pig , Hive , Data Visualization using Python .
+- Introduction: What is Machine Learning, Definitions and Real-life applications, Comparison of 
+  Machine learning with traditional programming, ML vs AI vs Data Science.
+  Learning Paradigms: Learning Tasks- Descriptive and Predictive Tasks, Supervised, Unsupervised, 
+  Semi-supervised and Reinforcement Learnings.
+  Models of Machine learning: Geometric model, Probabilistic Models, Logical Models, Grouping 
+  and grading models, Parametric and non-parametric models.
+  Feature Transformation: Dimensionality reduction techniques- PCA and LDA
+
+- Introduction- Regression, Need of Regression, Difference between Regression and Correlation, 
+  Types of Regression: Univariate vs. Multivariate, Linear vs. Nonlinear, Simple Linear vs. Multiple 
+  Linear, Bias-Variance tradeoff, Overfitting and Underfitting.
+  Regression Techniques - Polynomial Regression, Stepwise Regression, Decision Tree Regression, 
+  Random Forest Regression, Support Vector Regression, Ridge Regression, Lasso Regression, 
+  ElasticNet Regression, Bayesian Linear Regression.
+  Evaluation Metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean 
+  Squared Error (RMSE),R-squared ,Adjusted R-squared
+
+- Introduction: Need of Classification, Types of Classification (Binary and Multiclass), 
+  Binary-vs-Multiclass Classification, Balanced and Imbalanced Classification Problems. 
+  Binary Classification: Linear Classification model, Performance Evaluation- Confusion Matrix, 
+  Accuracy, Precision, Recall, F measures. 
+  Multiclass Classification: One-vs-One and One-vs-All classification techniques, Performance 
+  Evaluation- Confusion Matrix, Per Class Precision, Per Class Recall
+  Classification Algorithms: K Nearest Neighbor, Linear Support Vector Machines (SVM) –
+  Introduction, Soft Margin SVM, Kernel functions– Radial Basis Kernel, Gaussian, Polynomial, 
+  Sigmoid.
+
+- Introduction: What is clustering, Need of Clustering, Types of Clustering
+  Hierarchical clustering algorithms /connectivity-based clustering): Agglomerative Hierarchical 
+  Clustering (AHC) algorithm, Divisive Hierarchical Clustering (DHC) algorithm.
+  Centroid-based clustering algorithms / Partitioning clustering algorithms: K-Means clustering 
+  algorithm, Advantages and disadvantages of K-Means clustering algorithm, Elbow method, The 
+  Silhouette method, K-Medoids, K-Prototype.
+  Density-based clustering algorithms: DBSCAN algorithm, how it works, Advantages and 
+  disadvantages of DBSCAN.
+  Distribution-based clustering algorithms: Gaussian mixture model.
+  Application of Clustering Technique: Market Segmentation, Statistical data analysis, Social 
+  network analysis, Image segmentation, Anomaly detection
+
+- Ensemble Learning: Introduction to Ensemble Learning, Need of Ensemble Learning, 
+  Homogeneous and Heterogeneous ensemble methods, Advantages and Limitations of Ensemble 
+  methods, Applications of Ensemble Learning.
+  Basic Ensemble Learning Techniques: Voting Ensemble, Types of Voting: Max Voting, 
+  Averaging, Weighted Average. 
+  Advanced Ensemble Learning Techniques: Bagging: Bootstrapping, Aggregation. Boosting: Adaptive Boosting (AdaBoost), Gradient Boosting, XGBoost .
+  Stacking: Variance Reduction, Blending, Random Forest Ensemble, Advantages of Random Forest.
+
+- Reinforcement learning: What is Reinforcement Learning? Need for Reinforcement Learning, 
+  Supervised vs Unsupervised vs Reinforcement Learning, Types of Reinforcement, Elements of 
+  Reinforcement Learning, Real time applications of Reinforcement learning.
+  Markov’s Decision Process: Markov property, Markov chain/process, Markov reward process 
+  (MRP), Markov decision process (MDP), Return, Policy, Value functions, Bellman equation
+  Q Learning: Introduction of Q-Learning, Important terms in Q learning, Q table, Q functions, Q 
+  learning algorithm.
   
 #  417522 - Data Modeling & Visualization 
 -  Basic probability: Discrete and continuous random variables, independence, covariance, central limit theorem, 
