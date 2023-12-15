@@ -69,13 +69,41 @@ Also implemented Laboratory Assignments of Computer Laboratory I and Computer La
 -  Data Visualization and Hadoop , Introduction , Types , Tools , Challenges , Analytical techniques , Hadoop ecosystem , Map Reduce , Pig , Hive , Data Visualization using Python .
   
 #  417522 - Data Modeling & Visualization 
--  Introduction, Elements of Information Security , Security Policy , Basic Terminologies in Network Security .
--  Data Encryption Techniques And Standards , Introduction, Encryption Methods Symmetric , Asymmetric , Different Types of Ciphers , Data Encryption Standard (DES) , Advance Encryption Standard (AES) .
--  Public Key And Management , Public Key Cryptography , RSA Algorithm , Elliptic Curve , X.509 Authentication service , Digital Signatures Standards .
--  Security Requirements , IP Security , IPSec protocols , ISAKMP Protocol , VPN , WEB Security , Secure Socket Layer (SSL) , Handshake Protocol , MIME , S/MIME .
--  Firewall And Intrusion , Firewall Introduction , Firewall architecture , Intrusion Detection System , Limitations and Challenges .
--  Cyber Forensic , Hacking & its countermeasures , Personally Identifiable Information (PII) , Cyber Stalking , Cybercrime , Information Protection Laws , Ethical Hacking . 
-  
+-  Basic probability: Discrete and continuous random variables, independence, covariance, central limit theorem, 
+   Chebyshev inequality, diverse continuous and discrete distributions.
+-  Statistics, Parameter Estimation, and Fitting a Distribution: Descriptive statistics, graphical 
+   statistics, method of moments, maximum likelihood estimation
+-  Data Modeling Concepts : Understand and model subtypes and supertypes , Understand and 
+   model hierarchical data , Understand and model recursive relationships , Understand and model historical data
+-  Random Numbers and Simulation: Sampling of continuous distributions, Monte Carlo methods, Hypothesis Testing: Type I and II errors, rejection regions; Z-test, T- 
+   test, F-test, Chi-Square test, 
+-  Bayesian test : Stochastic Processes and Data Modeling: Markov process, Hidden Markov Models, Poisson 
+   Process, Gaussian Processes, Auto-Regressive and Moving average processes, Bayesian Network, 
+   Regression, Queuing systems.
+-  Computational Statistics and Data Visualization, Types of Data Visualization, Presentation and 
+   Exploratory Graphics, Graphics and Computing, Statistical Historiography, Scientific 
+   Design Choices in Data Visualization, Higher-dimensional Displays and Special Structures,
+   Static Graphics: Complete Plots, Customization, Extensibility,
+   Other Issues: 3-D Plots, Speed, Output Formats, Data Handling
+-  Data Wrangling: Hierarchical Indexing, Combining and Merging Data Sets Reshaping and 
+   Pivoting. Data Visualization matplotlib: Basics of matplotlib, plotting with pandas and seaborn, 
+   other python visualization tools
+   Data Visualization Through Their Graph Representations: Data and Graphs Graph Layout 
+   Techniques, Force-directed Techniques Multidimensional Scaling, The Pulling Under Constraints 
+   Model, Bipartite Graphs .
+
+-  Data Aggregation and Group operations: Group by Mechanics, Data aggregation, General split-apply-combine, Pivot tables and cross tabulation 67 Time Series 
+   Data Analysis: Date and Time Data Types and Tools, Time series Basics, date Ranges, Frequencies 
+   and Shifting, Time Zone Handling, Periods and Periods Arithmetic, Resampling and Frequency 
+   conversion, Moving Window Functions.
+
+-  Reconstruction, Visualization and Analysis of Medical Images 
+   Introduction: - PET Images, Ultrasound Images, Magnetic Resonance Images, Conclusion and Discussion,
+   Case Study: ER/Studio, Erwin data modeler, DbSchema Pro, Archi, SQL Database Modeler, LucidChart, 
+   Pgmodeler
+
+
+
       
 
 #  417523B -  Elective 3 - Industrial Internet of Things
