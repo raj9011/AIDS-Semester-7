@@ -8,12 +8,6 @@
 - Also I did Internship during Semester in Software Testing to dive deep into it .
 - I covered Operating System and Computer Networking on Saturday and Sunday . 
 
-## Regular Routine
-![Logo](https://github.com/yashraj9011/AIDS-Semester-7/blob/master/Curiculam%201.jpg)
-
-## Saturday & Sunday
-![Logo](https://github.com/yashraj9011/AIDS-Semester-7/blob/master/Curriculam%202.jpg)
-
 
 # Final Year- VPKBIET
 
