@@ -3,7 +3,7 @@
 
 # ODD Semester
 
-## Timetable Designed for Semester 7 By Me
+## Timetable Planned for Revising Concepts 
 - I planned to revise Machine Learning , Data Science , CPP , Python and SQL in the morning .
 - Also I did Internship during Semester in Software Testing to dive deep into it .
 - I covered Operating System and Computer Networking on Saturday and Sunday . 
